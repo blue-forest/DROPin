@@ -7,7 +7,7 @@
 ```
 
 [![License](https://img.shields.io/github/license/blue-forest/dropin)](../COPYING)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](#)
+[![Maintenance](https://img.shields.io/badge/maintained-no-red.svg)](#)
 [![Stability](https://img.shields.io/badge/stable-no-red.svg)](#)
 [![Crates.io latest version](https://img.shields.io/crates/v/dropin)](https://crates.io/crates/dropin/versions)
 [![Crates.io total downloads](https://img.shields.io/crates/d/dropin)](https://crates.io/crates/dropin)
@@ -23,6 +23,5 @@ The codebase is [licensed under GNU Affero General Public License v3](../COPYING
 If you want to join the development and contribute to the project, please reach us at dropin@blueforest.cc.
 
 
-## Contributors
+## Maintainers
 - Nazim Lachter ([@n4zim](https://github.com/n4zim))
-- Vulcain ([@vulc41n](https://github.com/vulc41n))
